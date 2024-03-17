@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="controlp5-master">
+    <CLASSES>
+      <root url="file://S:/Documents - Copy/controlp5-master" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://S:/Documents - Copy/controlp5-master/examples/experimental/MidiMapper" />
+      <root url="file://S:/Documents - Copy/controlp5-master/resources/addons/AddMethodList" />
+      <root url="file://S:/Documents - Copy/controlp5-master/resources/code" />
+      <root url="file://S:/Documents - Copy/controlp5-master/src" />
+    </SOURCES>
+  </library>
+</component>
