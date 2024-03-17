@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="ProcessingLibrary">
+  <library name="MidiMapper">
     <CLASSES />
     <JAVADOC>
       <root url="file://$PROJECT_DIR$/../../../Processing/libraries/controlP5/reference" />
