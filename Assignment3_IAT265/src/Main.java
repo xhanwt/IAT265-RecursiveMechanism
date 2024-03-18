@@ -8,10 +8,11 @@ import controlP5.*;
 //        PApplet.main(MechanismCanvas.class.getName());
 //    }
 //}
-
+public class Main {
 public static void main(String[] args) {
-    String[] processingArgs = {"MechanismEditor"};
-    MechanismEditor editor = new MechanismEditor();
+    String[] processingArgs = {"MechanismCanvas"};
+    MechanismCanvas editor = new MechanismCanvas();
     PApplet.runSketch(processingArgs, editor);
 }
 }
+
